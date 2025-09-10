@@ -6,3 +6,4 @@ Use this password cracker without consequence!! https://www.darknet.org.uk/2006/
 <br> https://hashcat.net/hashcat/  open-source password recovery tool used to audit password security. It works by attempting to reverse-engineer a password from its hashed representation
 https://www.zaproxy.org/ Helps with penetration testing for web development by finding security vulnerabilities by acting as an intercepting proxy.
 https://lookup.icann.org/en/lookup is used to get info on specific organization like IP address and domain status(whois)
+https://www.getastra.com Penetration testing website.
