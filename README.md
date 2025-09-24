@@ -25,3 +25,5 @@ https://www.wireshark.org/
 
 https://nmap.org/download This tool is a network mapper that is used for port scanning as well as host discovery. (Dominic Helmer)
 https://docs.google.com/presentation/d/1GzSh25tFeX_LhtVDYZupDYdQYYmTaiNrgqSWMHrvX3M/edit?usp=sharing (Myla.A)
+
+https://hashcat.net/hashcat/ Advanced password recovery, Nicole G
