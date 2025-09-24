@@ -22,3 +22,5 @@ https://www.getastra.com Penetration testing website. (Christian Petrancuri)
 
 
 https://www.wireshark.org/
+
+https://nmap.org/download This tool is a network mapper that is used for port scanning as well as host discovery. (Dominic Helmer)
