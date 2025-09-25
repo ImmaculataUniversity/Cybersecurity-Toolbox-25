@@ -21,9 +21,11 @@ https://lookup.icann.org/en/lookup is used to get info on specific organization 
 https://www.getastra.com Penetration testing website. (Christian Petrancuri)
 
 
-https://www.wireshark.org/
+https://www.wireshark.org/  
 
 https://nmap.org/download This tool is a network mapper that is used for port scanning as well as host discovery. (Dominic Helmer)
 https://docs.google.com/presentation/d/1GzSh25tFeX_LhtVDYZupDYdQYYmTaiNrgqSWMHrvX3M/edit?usp=sharing (Myla.A)
 
 https://hashcat.net/hashcat/ Advanced password recovery, Nicole G https://github.com/ngonzalezgonzalez26/HASHCAT-TOOLBOX/tree/main
+
+https://mxtoolbox.com/ allows users to find information on domains such as dns lookups and emial server tests
