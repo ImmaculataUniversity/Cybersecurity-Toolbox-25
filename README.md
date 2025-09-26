@@ -21,6 +21,7 @@ https://lookup.icann.org/en/lookup is used to get info on specific organization 
 
 https://www.getastra.com Penetration testing website. (Christian Petrancuri)
 
+https://www.passwordmonster.com/ password strength testing (nate bailey)
 
 https://www.wireshark.org/  
 
