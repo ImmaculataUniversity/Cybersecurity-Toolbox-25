@@ -17,7 +17,7 @@ https://github.com/maggiefriend/ToolBox-Assignment
 https://www.zaproxy.org/ Helps with penetration testing for web development by finding security vulnerabilities by acting as an intercepting proxy.
 
 
-https://lookup.icann.org/en/lookup is used to get info on specific organization like IP address and domain status(whois)
+https://lookup.icann.org/en/lookup is used to get info on specific organization like IP address and domain status(whois)-Samai Hidalgo
 
 
 https://www.getastra.com Penetration testing website. (Christian Petrancuri)
