@@ -10,7 +10,7 @@
   Password cracker: https://www.darknet.org.uk/2006/09/brutus-password-cracker-download-brutus-aet2zip-aet2
 
 
-  Open-source password recovery tool used to audit password security. It works by attempting to reverse-engineer a password from its hashed representationhttps://hashcat.net/hashcat/  open-source password recovery tool used to audit password security. It works by attempting to reverse-engineer a password from its hashed representation
+  Open-source password recovery tool used to audit password security: https://hashcat.net/hashcat/  works by attempting to reverse-engineer a password from its hashed representation  
 https://github.com/maggiefriend/ToolBox-Assignment
 
 
