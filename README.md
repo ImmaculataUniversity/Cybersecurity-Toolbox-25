@@ -1,15 +1,16 @@
-# CYB301_HACKING_TOOLBOX
-A list of useful tools and a description of what they do / how to use them
-https://bugmenot.com/ possible cracked accounts for various subscirption based services
+# A series of tools for cybersecurity professionals
 
 
-https://pentest-tools.com/information-gathering/website-reconnaissance-discover-web-application-technologies looks for bugs and looks at websites for malware 
+  Cracked accounts: https://bugmenot.com/ 
 
 
-Use this password cracker without consequence!! https://www.darknet.org.uk/2006/09/brutus-password-cracker-download-brutus-aet2zip-aet2
+  Website Reconnaissance: https://pentest-tools.com/information-gathering/website-reconnaissance-discover-web-application-technologies looks for bugs and looks at websites for malware 
 
 
-<br> https://hashcat.net/hashcat/  open-source password recovery tool used to audit password security. It works by attempting to reverse-engineer a password from its hashed representation
+  Password cracker: https://www.darknet.org.uk/2006/09/brutus-password-cracker-download-brutus-aet2zip-aet2
+
+
+  Open-source password recovery tool used to audit password security. It works by attempting to reverse-engineer a password from its hashed representationhttps://hashcat.net/hashcat/  open-source password recovery tool used to audit password security. It works by attempting to reverse-engineer a password from its hashed representation
 https://github.com/maggiefriend/ToolBox-Assignment
 
 
