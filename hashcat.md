@@ -163,9 +163,3 @@ Offensive knowledge informs defense: password complexity, password rotation is i
 ---
 
 ```
-### Hashcat — contributed by <Maggie Friend>
-**Tool:** Hashcat — https://hashcat.net/hashcat  
-**Format:** Documentation + demo commands (Markdown + notes)  
-**Repo or Page:** <Your GitHub repo or page link>  
-**Short description:** Intro to Hashcat install, basic attacks (wordlist, mask, rules), speed tuning, demo commands, and ethical lab setup.
-**Notes:** Includes demo hashes and commands; GPU recommended for full performance.
