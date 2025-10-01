@@ -20,7 +20,7 @@ https://www.zaproxy.org/ Helps with penetration testing for web development by f
 https://lookup.icann.org/en/lookup is used to get info on specific organization like IP address and domain status(whois)-Samai Hidalgo
 
 
-https://www.getastra.com Penetration testing website. (Christian Petrancuri)
+https://www.getastra.com Penetration testing website. (Christian Petrancuri) 
 
 https://www.passwordmonster.com/ password strength testing (nate bailey)
 
