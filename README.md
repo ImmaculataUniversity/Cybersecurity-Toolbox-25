@@ -22,7 +22,7 @@ https://lookup.icann.org/en/lookup is used to get info on specific organization 
 
 https://www.getastra.com Penetration testing website. (Christian Petrancuri) 
 
-https://www.passwordmonster.com/ password strength testing (nate bailey)
+https://www.passwordmonster.com/ password strength testing (nate bailey), Here is a tutorial --> https://docs.google.com/presentation/d/1S9LwGY_sF3_RNbqWBfd0UGWTDmVZVUEbJheQYeK8I8M/edit?usp=sharing
 
 https://www.wireshark.org/  
 
